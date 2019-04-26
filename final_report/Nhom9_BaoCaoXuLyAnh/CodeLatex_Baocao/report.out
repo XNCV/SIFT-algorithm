@@ -1,0 +1,32 @@
+\BOOKMARK [1][-]{section.1}{Gii thiu}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{T\341c gia}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Gii thiu thut to\341n SIFT}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{Giai thut SIFT}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{Scale-space extrema detection}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{Keypoint localization}{section.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Ni suy d liu l\342n cn}{subsection.2.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Loai bo c\341c im c\363 \040tng phan thp}{subsection.2.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.2.3}{Loai bo c\341c im d tha theo bi\352n}{subsection.2.2}% 9
+\BOOKMARK [3][-]{subsubsection.2.2.4}{Kt lun}{subsection.2.2}% 10
+\BOOKMARK [2][-]{subsection.2.3}{Orientation assignment}{section.2}% 11
+\BOOKMARK [2][-]{subsection.2.4}{Keypoint descriptor}{section.2}% 12
+\BOOKMARK [3][-]{subsubsection.2.4.1}{S phu thuc v\362ng quay}{subsection.2.4}% 13
+\BOOKMARK [3][-]{subsubsection.2.4.2}{S phu thuc chiu s\341ng}{subsection.2.4}% 14
+\BOOKMARK [1][-]{section.3}{PHNG PH\301P KHP NI \320IM KEYPOINT}{}% 15
+\BOOKMARK [2][-]{subsection.3.1}{Khp keypoint}{section.3}% 16
+\BOOKMARK [1][-]{section.4}{C\341c c t\355nh cua thut to\341n v\340 h thng}{}% 17
+\BOOKMARK [2][-]{subsection.4.1}{Thi gian Training}{section.4}% 18
+\BOOKMARK [2][-]{subsection.4.2}{Thi gian nhn dang}{section.4}% 19
+\BOOKMARK [2][-]{subsection.4.3}{La chon mc ngng}{section.4}% 20
+\BOOKMARK [2][-]{subsection.4.4}{Nhn dang trong c\341c iu kin}{section.4}% 21
+\BOOKMARK [3][-]{subsubsection.4.4.1}{Che khut}{subsection.4.4}% 22
+\BOOKMARK [3][-]{subsubsection.4.4.2}{M\351o dang}{subsection.4.4}% 23
+\BOOKMARK [3][-]{subsubsection.4.4.3}{Nhiu}{subsection.4.4}% 24
+\BOOKMARK [3][-]{subsubsection.4.4.4}{Anh bi xoay}{subsection.4.4}% 25
+\BOOKMARK [1][-]{section.5}{KT LUN}{}% 26
+\BOOKMARK [2][-]{subsection.5.1}{Kt lun}{section.5}% 27
+\BOOKMARK [3][-]{subsubsection.5.1.1}{U \320IM}{subsection.5.1}% 28
+\BOOKMARK [3][-]{subsubsection.5.1.2}{NHC \320IM}{subsection.5.1}% 29
+\BOOKMARK [3][-]{subsubsection.5.1.3}{Kh\363 khan gp phai}{subsection.5.1}% 30
+\BOOKMARK [2][-]{subsection.5.2}{Hng ph\341t trin \040t\340i}{section.5}% 31
+\BOOKMARK [1][-]{section*.1}{T\340i liu}{}% 32
